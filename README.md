@@ -2,7 +2,7 @@
 - 👀 I’m interested in java, python, mysql, swift, kotlin, xcode, and android studio
 - 🌱 I’m currently learning html
 - 💞️ I’m looking to collaborate on html and java
-- 📫 How to reach me email: mpranavisaboss@gmail.com
+- 📫 How to reach me email: pranavmarthi1@gmail.com
 
 <!---
 PranavMarthi/PranavMarthi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
